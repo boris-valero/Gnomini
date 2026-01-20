@@ -27,7 +27,8 @@ apps() {
     sudo apt install -y \
         firefox \
         keepassxc \
-        inkscape
+        build-essential \
+        extrepo
 }
 
 base() {
